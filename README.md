@@ -185,20 +185,6 @@ tracker = GradTracker(
 - [ ] HuggingFace Trainer callback
 
 ---
-
-## Citation
-
-If GradScope helps your research, please cite:
-
-```bibtex
-@inproceedings{mahdi2026curriculum,
-  title     = {Slow Curricula Harm Generalization: Gradient Dynamics Evidence},
-  author    = {[Your Name]},
-  booktitle = {NeurIPS},
-  year      = {2026}
-}
-```
-
 ---
 
 ## License
