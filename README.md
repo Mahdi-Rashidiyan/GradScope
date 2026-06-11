@@ -12,8 +12,6 @@ Most training bugs are invisible. Your loss goes down. Your accuracy looks fine.
 
 GradScope makes these dynamics visible in real time.
 
-Built from the diagnostic tools behind a NeurIPS 2026 paper on curriculum learning — showing that slow easy-to-hard curricula can *harm* generalization by locking low-capacity models into harmful basins.
-
 ---
 
 ## Install
